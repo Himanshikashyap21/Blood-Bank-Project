@@ -1,0 +1,38 @@
+/* *{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+/*form*/
+/*.form-banner img{
+  height: 80%;
+  width: 100%;
+}
+
+.form-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 80vh;
+} */
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*Form*/
+.form-banner img{
+  width: 100%;
+  height: 100%;
+}
+
+.form-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
